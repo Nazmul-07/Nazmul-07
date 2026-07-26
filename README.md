@@ -78,7 +78,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Nazmul-07&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -88,7 +88,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nazmul-07&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -96,7 +96,7 @@
 
 # 📈 Contribution Graph
 
-[![Nazmul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Nazmul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nazmul-07&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
