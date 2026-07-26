@@ -86,11 +86,11 @@
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazmul-07&show_icons=true&theme=tokyonight)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nazmul-07&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Nazmul-07&theme=tokyonight)
 
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul-07&layout=compact&theme=tokyonight)
 
 ---
 
