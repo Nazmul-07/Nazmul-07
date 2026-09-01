@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Md Nazmul Hosen Banner" width="100%">
+</p>
+
+
 # 👋 Hi, I'm Md Nazmul Hosen
 
 <p align="center">
