@@ -84,7 +84,7 @@ React         ████████████░░░░░░░░   Lea
 - [x] JavaScript Fundamentals
 - [x] TypeScript Fundamentals
 - [x] Tailwind CSS
-- [ ] React.js — Learning 🚀
+- [-] React.js — Learning 🚀
 - [ ] Node.js
 - [ ] Express.js
 - [ ] MongoDB
@@ -128,7 +128,7 @@ Keep learning. Keep building. Keep growing. 🚀
 <p>
   <a href="https://github.com/nazmul-07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>  <a href="https://www.linkedin.com/">
+  </a>  <a href="https://www.linkedin.com/in/nazmulhosen07?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>---
