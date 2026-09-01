@@ -1,108 +1,155 @@
 <p align="center">
-  <img src="./banner.png" alt="Md Nazmul Hosen Banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=180&section=header&text=Md%20Nazmul%20Hosen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<h3 align="center">💻 Learning Web Development | Building Projects | Improving Every Day</h3>
-
-<p align="center">
-  <a href="https://github.com/">
+  <img src="./banner.png" alt="Md Nazmul Hosen Banner" width="100%" />
+</p><p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=180&section=header&text=Md%20Nazmul%20Hosen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    width="100%"
+  />
+</p><h3 align="center">
+  💻 Web Developer in Progress • 🚀 Building Projects • 📚 Learning Every Day
+</h3><p align="center">
+  <a href="https://github.com/nazmul-07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nazmul-07&style=for-the-badge&color=0284c7" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=nazmul-07&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" />
+</p>---
+
+👨‍💻 About Me
+
+Hi! I'm Md Nazmul Hosen, a passionate developer who is currently learning and building with modern web technologies.
+
+- 🌱 Currently learning Web Development
+- 💻 Working with HTML, CSS, JavaScript & TypeScript
+- 🎨 Building responsive interfaces with Tailwind CSS
+- ⚛️ Currently focusing on React.js
+- 🛠️ Love turning ideas into real-world projects
+- 📚 Consistently improving my programming skills
+- 🚀 Interested in Frontend & Full-Stack Development
+- 🎯 Long-term goal: Become a strong Software Engineer
 
 ---
 
-## 🚀 About Me
+🧑‍💻 Tech Stack
 
-- 🌱 I'm currently learning **Web Development**
-- 💻 Learning and practicing **HTML, CSS, JavaScript, TypeScript, Tailwind CSS & React**
-- ⚛️ Currently focusing on **React**
-- 🛠️ I enjoy building projects and turning ideas into real websites
-- 📚 Always learning something new and improving my coding skills
-- 🎯 Goal: Become a strong **Software Engineer**
-
----
-
-## 🧑‍💻 Tech Stack
-
-### 🌐 Frontend
+🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react" />
-</p>
-
-### 🔧 Tools
+</p>⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>🛠️ Tools & Technologies
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
+</p>---
 
-## 📊 My GitHub Stats
+📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmul-07&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats-omega-blue-56.vercel.app/api?username=nazmul-07&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Nazmul's GitHub Stats"
+  /><img
+src="https://github-readme-stats-omega-blue-56.vercel.app/api/top-langs/?username=nazmul-07&layout=compact&theme=tokyonight&hide_border=true"
+height="170"
+alt="Top Languages"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-07&layout=compact&theme=tokyonight)
+</p><p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=nazmul-07&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
+</p>---
 
----
+🔥 Current Focus
 
-## 🔥 Current Focus
-
-```text
 HTML          ████████████████████  100%
 CSS           ████████████████████  100%
 JavaScript    ██████████████████░░   90%
 TypeScript    ███████████████░░░░░   75%
 Tailwind CSS  ████████████████░░░░   80%
-React         ████████████░░░░░░░░   Learning
-```
+React         ████████████░░░░░░░░   Learning 🚀
 
 ---
 
-## 🎯 Learning Roadmap
+🎯 Learning Roadmap
 
 - [x] HTML
 - [x] CSS
 - [x] JavaScript Fundamentals
 - [x] TypeScript Fundamentals
 - [x] Tailwind CSS
-- [ ] React — Learning 🚀
+- [ ] React.js — Learning 🚀
 - [ ] Node.js
 - [ ] Express.js
 - [ ] MongoDB
+- [ ] REST API
+- [ ] Authentication & Authorization
 - [ ] Full-Stack Development
+- [ ] Build Production-Level Projects
 
 ---
 
-## 💡 What I Believe
+🚀 What I'm Building
 
-> **"Code today. Build tomorrow. Inspire forever."**
+I'm focused on learning by building real projects.
 
-I believe consistency beats perfection.  
-Every line of code is a step toward becoming a better developer. 🚀
+💡 Areas I'm Exploring
+
+- 🌐 Responsive Web Applications
+- ⚛️ React Applications
+- 🎨 Modern UI with Tailwind CSS
+- 🔌 REST APIs
+- 🔐 Authentication
+- 🗄️ Database Integration
+- 🚀 Full-Stack Applications
 
 ---
 
-## 📫 Connect With Me
+💡 My Developer Philosophy
+
+«"Code today. Build tomorrow. Inspire forever."»
+
+I believe consistency beats perfection.
+
+Every bug I fix, every concept I learn, and every project I build takes me one step closer to becoming a better developer.
+
+Keep learning. Keep building. Keep growing. 🚀
+
+---
+
+📫 Connect With Me
 
 <p>
   <a href="https://github.com/nazmul-07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
+  </a>  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</p>---
+
+⚡ Fun Fact
+
+while(alive) {
+    learn();
+    code();
+    build();
+    improve();
+}
 
 ---
 
 <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0f172a&height=120&section=footer"
+    width="100%"
+  />
+</p><p align="center">
   <b>⭐ Thanks for visiting my profile!</b>
   <br/>
   <sub>Keep learning • Keep building • Keep growing 🚀</sub>
