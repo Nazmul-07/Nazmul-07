@@ -2,9 +2,6 @@
   <img src="./banner.png" alt="Md Nazmul Hosen Banner" width="100%">
 </p>
 
-
-# 👋 Hi, I'm Md Nazmul Hosen
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=180&section=header&text=Md%20Nazmul%20Hosen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
