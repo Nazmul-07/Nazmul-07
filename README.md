@@ -47,8 +47,16 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmul-07&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-07&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nazmul-07&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Nazmul's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-07&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 ---
