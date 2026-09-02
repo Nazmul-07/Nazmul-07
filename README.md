@@ -66,16 +66,6 @@ alt="Top Languages"
   />
 </p>---
 
-🔥 Current Focus
-
-HTML          ████████████████████  100%
-CSS           ████████████████████  100%
-JavaScript    ██████████████████░░   90%
-TypeScript    ███████████████░░░░░   75%
-Tailwind CSS  ████████████████░░░░   80%
-React         ████████████░░░░░░░░   Learning 🚀
-
----
 
 🎯 Learning Roadmap
 
@@ -84,7 +74,7 @@ React         ████████████░░░░░░░░   Lea
 - [x] JavaScript Fundamentals
 - [x] TypeScript Fundamentals
 - [x] Tailwind CSS
-- [-] React.js — Learning 🚀
+- [x] React.js — Learning 🚀
 - [ ] Node.js
 - [ ] Express.js
 - [ ] MongoDB
