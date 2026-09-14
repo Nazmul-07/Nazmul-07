@@ -74,7 +74,8 @@ alt="Top Languages"
 - [x] JavaScript Fundamentals
 - [x] TypeScript Fundamentals
 - [x] Tailwind CSS
-- [x] React.js — Learning 🚀
+- [x] React.js
+- [ ] Next.js  — Learning 🚀
 - [ ] Node.js
 - [ ] Express.js
 - [ ] MongoDB
