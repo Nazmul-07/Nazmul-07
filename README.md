@@ -75,10 +75,10 @@ alt="Top Languages"
 - [x] TypeScript Fundamentals
 - [x] Tailwind CSS
 - [x] React.js
-- [ ] Next.js  — Learning 🚀
-- [ ] Node.js
-- [ ] Express.js
-- [ ] MongoDB
+- [x] Next.js 
+- [ ] Node.js  — Learning 🚀
+- [ ] Express.js  — Learning 🚀
+- [ ] MongoDB  — Learning 🚀
 - [ ] REST API
 - [ ] Authentication & Authorization
 - [ ] Full-Stack Development
