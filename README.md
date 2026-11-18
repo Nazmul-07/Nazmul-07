@@ -80,7 +80,7 @@ alt="Top Languages"
 - [ ] Express.js  — Learning 🚀
 - [ ] MongoDB  — Learning 🚀
 - [ ] REST API
-- [ ] Authentication & Authorization
+- [x] Authentication & Authorization
 - [ ] Full-Stack Development
 - [ ] Build Production-Level Projects
 
